@@ -1,3 +1,4 @@
+![Ucolor Logo](./logo-dark.svg)
 # Ucolor 
 
 **A little tool for finding the right colors, and a place to make it better together.**
